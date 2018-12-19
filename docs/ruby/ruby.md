@@ -11,11 +11,11 @@ permalink: /docs/ruby
 
 ### **فهرست مطالب**
 
->>۱.  [راهنمای نصب](http://www.localhost:4000/docs/ruby/the_setup)
+>>۱.  [راهنمای نصب](http://rubyzone.ir/docs/ruby/the_setup)
 {:toc}
->>۲.   [اولین برنامه](http://www.localhost:4000/docs/ruby/a_good_first_program)
+>>۲.   [اولین برنامه](http://rubyzone.ir/docs/ruby/a_good_first_program)
 {:toc}
->>۳.    [کامنت گذاری](http://www.localhost:4000/docs/ruby/comments_and_pound_characters)
+>>۳.    [کامنت گذاری](http://rubyzone.ir/docs/ruby/comments_and_pound_characters)
 {:toc}
 <!-- [دسترسی به داده های آرایه](http://www.localhost:4000/docs/ruby/accessing_elements_of_arrays)
 [دسترسی به داده های آرایه](http://www.localhost:4000/docs/ruby/accessing_elements_of_arrays)
