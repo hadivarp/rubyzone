@@ -103,8 +103,8 @@ nav_order: 1
 
 
 
-[اولین برنامه](http://www.localhost:4000/docs/ruby/a_good_first_program){: .btn }
-[آموزش روبی](http://localhost:4000/docs/ruby/){: .btn }
+[اولین برنامه](http://rubyzone.ir/docs/ruby/a_good_first_program){: .btn }
+[آموزش روبی](http://rubyzone.ir/docs/ruby/){: .btn }
 
 
 
